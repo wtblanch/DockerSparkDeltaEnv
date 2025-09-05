@@ -10,7 +10,7 @@ This project provides a local sandbox environment that mimics Azure Databricks u
 
 ## 📂 Project Structure
 ```
-spark-delta-env/
+DockerSparkDeltaEnv/
 │── Dockerfile              # Builds image with Spark + Delta + MLflow
 │── docker-compose.yml      # Runs the container with Jupyter + MLflow
 │── work/                   # Mounted volume for notebooks, data, MLflow runs
