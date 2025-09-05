@@ -22,7 +22,7 @@ spark-delta-env/
 ## 🚀 Getting Started
 
 ### 1. Build and Run
-From inside the `spark-delta-env` folder:
+From inside the `DockerSparkDeltaEnv` folder:
 
 ```bash
 docker compose build --no-cache
